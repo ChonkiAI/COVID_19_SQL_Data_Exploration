@@ -29,8 +29,8 @@ I leveraged **advanced SQL techniques** to transform raw COVID-19 data into acti
 ---
 
 ## 📂 Dataset
-- COVID-19 [Deaths Data]
-- COVID-19 [Vaccination Data]
+- COVID-19 [Deaths Data](https://github.com/ChonkiAI/COVID_19_SQL_Data_Exploration/blob/main/CovidDeaths.xlsx)
+- COVID-19 [Vaccination Data](http://github.com/ChonkiAI/COVID_19_SQL_Data_Exploration/blob/main/CovidVaccinations.xlsx)
 - Source: [Our World in Data – COVID-19 Dataset](https://ourworldindata.org/covid-deaths)  
 - Format: CSV files imported into SQL Server
 
